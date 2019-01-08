@@ -1,7 +1,7 @@
 # image_similarity
 A side project for demo purposes for Udacity's Pytorch challenge course. Its a work in progress
 
-The code depends upon very large model, captions and Embedding files (of the ordr of 25GB or more) that I have created locally for testing and validation. These files are not suitable for uploading on Git-Hub.
+The code depends upon very large model, captions and Embedding files (of the order of 25GB or more) that I have created locally for testing and validation. These files are not suitable for uploading on Git-Hub.
 In order to create them, it takes several hours on full dataset.
 I have included this README since it was a requirement for the project submission form. However, the actual code and run commands shall be available soon.
 
